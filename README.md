@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markdbjorklund
-- 👀 I’m interested in data analytics
+- 👀 I’m a former public school educator interested in data analytics
 - 🌱 I’m currently working on Google Data Analytics Certification course
 - 💞️ I’m looking to collaborate on ... getting started with a career in data analytics
 - 📫 How to reach me ... markdbjorklund@gmail.com
